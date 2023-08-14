@@ -6,9 +6,10 @@ We will focus on data cleaning, transformation, and conducting core analyses to 
 
 ## Dataset
 The dataset used for this project is the FIFA 2020 dataset, which contains information about various aspects of football players, teams, and matches. 
-[The dataset is available at](https://kaggle.com/players_20.csv) and it consists of the following file:
+[The dataset is available at] (https://kaggle.com/players_20.csv) and it consists of the following file:
 
-- players.csv:
+ players.csv:
+ 
 -  Contains information about individual players' attributes, skills, and characteristics.
 -  Includes details about different football teams.
 -  Provides information about matches, including teams, scores, and match-specific details.
@@ -22,10 +23,10 @@ The dataset used for this project is the FIFA 2020 dataset, which contains infor
 
 The project repository has the following structure:
 
-├── data/
-│ ├── players_20.csv
-├── notebooks/
-│ ├── project_data_cleaning_and_transformation.ipynb
+├── data/players_20.csv
+
+├── notebooks/project_data_cleaning_and_transformation.ipynb
+
 ├── README.md
 
 ## Notebooks
@@ -51,4 +52,4 @@ Contributions to this project are welcome! If you find any issues or have sugges
 
 ## Contact
 
-For questions or inquiries, please contact [joshuaafolabi80@gmail.com](mailto:joshuaafolabi80@gmail.com).
+For questions or inquiries, please contact [joshuaafolabi80@gmail.com](mailto:joshuaafolabi80@gmail.com)
